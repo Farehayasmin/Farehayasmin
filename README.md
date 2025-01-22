@@ -1,16 +1,16 @@
 
 
 ```markdown
-# Hi, I'm Fareha Yasmin 👋
+# Hi, I'm Fareha Yasmin 
 
-🌟 **Welcome to My GitHub Profile!**  
+ **Welcome to My GitHub Profile!**  
 I am a passionate **MERN Stack Developer** and a **CSE student** with expertise in building responsive,
  feature-rich web applications. I love solving problems, designing user-friendly interfaces, and constantly
  learning new technologies.
 
 ---
 
-## 🛠️ **Skills & Technologies**
+##**Skills & Technologies**
 - **Frontend Development:**  
   HTML, CSS, JavaScript, React, Tailwind CSS, Daisy UI, DOM Manipulation
 
@@ -28,10 +28,10 @@ I am a passionate **MERN Stack Developer** and a **CSE student** with expertise 
 
 ---
 
-## 🚀 **Highlighted Projects**
+## **Highlighted Projects**
 ---
 
-### 1. 🌦️ **Weather Forecast App**  
+### 1. **Weather Forecast App**  
 **Description:** A responsive weather forecasting website with a visually appealing interface.  
 **Technologies:** React, Tailwind CSS, Weather API integration.  
 **Features:**
@@ -40,7 +40,7 @@ I am a passionate **MERN Stack Developer** and a **CSE student** with expertise 
 
 ---
 
-### 2. 🚌 **Smart Bus Ticketing System**  
+### 2.**Smart Bus Ticketing System**  
 **Description:** A dynamic bus seat selection and booking system with real-time functionality.  
 **Technologies:** HTML, Tailwind CSS, Daisy UI, JavaScript.  
 **Features:**
@@ -51,7 +51,7 @@ I am a passionate **MERN Stack Developer** and a **CSE student** with expertise 
 
 ---
 
-## 🌐 **Connect With Me**
+## **Connect With Me**
 - **LinkedIn:** [Fareha Yasmin](https://www.linkedin.com/in/fareha-yasmin-b9baba26b/)
 - **Email:** [farehayasmin827@gmail.com]
 
